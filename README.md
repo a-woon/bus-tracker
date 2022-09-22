@@ -11,9 +11,9 @@ This project was developed using mapbox to track the bus route from MIT to Harva
 
 ## How to use it?
 (1) Clone this repository <br>
-(2) Create an account at mapbox.com and generate your own access token.
-(3) Insert that token in the mapanimation.js file
-(4) Run the index.html file and you're good to go
+(2) Create an account at mapbox.com and generate your own access token <br>
+(3) Insert that token in the mapanimation.js file <br>
+(4) Run the index.html file and you're good to go <br>
 
 ### Planned Future Improvements
 
