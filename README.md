@@ -1,6 +1,6 @@
 # Real-Time-Bus-Tracking
 
-![bustracker](https://user-images.githubusercontent.com/15187270/112938120-d58ea680-90dd-11eb-864d-1c3ae9c792f8.JPG)
+![bustracker](https://github.com/a-woon/real-time-bus-tracking/blob/ff3ea6f2b500f1fff219940282136cdd5ec2c8c3/bustrackerSS.png)
 
 Bus Tracking Exercise
 
