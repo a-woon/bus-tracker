@@ -10,7 +10,7 @@ Bus Tracking Exercise
 This project was developed using mapbox to track the bus route from MIT to Harvard along this map. The map shows the stops required to travel when a user clicks on the 'Show stops between MIT and Harvard' button. 
 
 ## How to use it?
-(1) Clone this repository 
+(1) Clone this repository <br>
 (2) Create an account at mapbox.com and generate your own access token.
 (3) Insert that token in the mapanimation.js file
 (4) Run the index.html file and you're good to go
